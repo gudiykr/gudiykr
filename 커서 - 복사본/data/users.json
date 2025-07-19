@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "관리자",
+    "email": "admin@guidy.com",
+    "password": "$2a$10$yp2I40eRxWjNamNaZmch3OrRyGKJjc9mdYSkSZe51J7DOn0nnzJUq",
+    "userType": "admin",
+    "birthYear": 1990,
+    "gender": "male",
+    "createdAt": "2025-07-05T10:34:37.371Z",
+    "updatedAt": "2025-07-05T10:34:37.371Z"
+  },
+  {
+    "id": 2,
+    "name": "카리나",
+    "email": "karina@gmail.com",
+    "password": "$2b$10$vpq4czNuC/UKjppiliAZdOIbGLQqRFXGzKnwUNu5Vy6qOVFQ9fnIa",
+    "userType": "guide",
+    "birthYear": "1990",
+    "gender": "female",
+    "createdAt": "2025-07-09T06:54:41.795Z",
+    "updatedAt": "2025-07-09T06:54:41.795Z"
+  }
+]

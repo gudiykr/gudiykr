@@ -1,0 +1,19 @@
+[
+  {
+    "id": "booking-1752929546804",
+    "tourId": 1,
+    "tourTitle": "한강에서 즐기는 피크닉 투어",
+    "guideId": "guide-1",
+    "guideName": "김한강",
+    "travelerId": "2",
+    "travelerName": "카리나",
+    "date": "2025-07-20",
+    "startTime": "13:00",
+    "endTime": "16:00",
+    "participants": 1,
+    "totalPrice": 30000,
+    "status": "pending",
+    "createdAt": "2025-07-19T12:52:26.804Z",
+    "updatedAt": "2025-07-19T12:52:26.804Z"
+  }
+]
